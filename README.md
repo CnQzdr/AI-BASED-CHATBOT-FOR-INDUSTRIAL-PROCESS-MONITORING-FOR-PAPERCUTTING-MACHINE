@@ -20,29 +20,31 @@ Then after installations of the above, then is setting up of virtual environment
 
 4. Virtual environment setup
     
+   ```
      $ cd chatbot-develop
      $ python -m venv venv
      $ . venv/Scripts/activate
+   ```
 
 Where "chatbot-develop" is the folder name for your project.
 
 5. Installations of packages
 
-     $ pip install Flask torch torchvision nltk cors
+   `  $ pip install Flask torch torchvision nltk cors `
 
 ## B. CLONE AND TRAINING
 
 6. Clone this repository from the bash terminal to the "Chatbot-develop" by writting:
     
-     $ git clone https://github.com/CnQzdr/AI-BASED-CHATBOT-FOR-INDUSTRIAL-PROCESS-MONITORING-FOR-PAPERCUTTING-MACHINE/tree/main/Chatbot-develop
+    ` $ git clone https://github.com/CnQzdr/AI-BASED-CHATBOT-FOR-INDUSTRIAL-PROCESS-MONITORING-FOR-PAPERCUTTING-MACHINE/tree/main/Chatbot-develop `
 
 7. To train an algorthm
      
-     $ python training.py
+   `  $ python training.py `
 
 8. Start conversation
     
-     $ python main.py
+    ` $ python main.py `
 
 # HARDWARE IMPLEMENTATION
 
