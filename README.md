@@ -33,12 +33,15 @@ Where "chatbot-develop" is the folder name for your project.
 B.CLONE AND TRAINING
 
 6.Clone this repository from the bash terminal to the "chatbot-develop" by writting:
+    
      $ git clone https://github.com/CnQzdr/AI-BASED-CHATBOT-FOR-INDUSTRIAL-PROCESS-MONITORING-FOR-PAPERCUTTING-MACHINE/chatbot-develop.git
 
 7.To train an algorthm
+     
      $ python training.py
 
 8.Start conversation
+    
      $ python main.py
 
 # HARDWARE IMPLEMENTATION
