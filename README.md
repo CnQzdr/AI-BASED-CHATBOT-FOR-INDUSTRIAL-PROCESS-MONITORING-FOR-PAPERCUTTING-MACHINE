@@ -5,8 +5,9 @@ Many companies dedicated specific employees to monitor their production lines, s
 
 This problem associates with the manual monitoring approach where the operator should be present physically around the machine to sets parameter and oversee the operation state of the machine from the start of production, through different manufacturing stages, and all the way to final inspection. This has courage’s to the development of industrial process monitoring system that will offer remote control and monitoring of the machine and its process. So instructions and parameter setting to machine will be provide from this system and feedback about the operation faults and current states will be present. Provision of command instructions and getting feedbacks through the system in real time way is like conversation between the operator providing instructions and the monitoring system providing state feedback, hence AI based chatbot (conversational agent) is proposed and developed to be industrial process monitoring system from the early method of being almost around machine where now through this chatbot will monitor machine remotely while being in a single position unless on the time of resolving detected faults.
 
-#SOFTWARE IMPLEMENTATION
-A.ENVIRONMENT SETUP AND INSTALLATIONS
+#SOFTWARE IMPLEMENTATION.
+A.ENVIRONMENT SETUP AND INSTALLATIONS.
+
 In software implementation, there is a need to install 
 1.IDE software where codes are written from. The choosen IDE is VS code, visual studio code, since it offers many powerfull extensions. For VScode installations see https://code.visualstudio.com/download
 2.Installing Git for the given operating system to have version control sytem. Git installation provides Bash (Bourne-again shell), which is the same commandprocessor that the Unix systems use. Bash is much more powerful than the defaultWindows command line, For Git installations see https://git-scm.com/download/win.
@@ -25,11 +26,11 @@ Where "chatbot-develop" is the folder name for your project.
 
 B.CLONE AND TRAINING
 6.Clone this repository from the bash terminal to the "chatbot-develop" by writting:
-    $ git clone https://github.com/CnQzdr/AI-BASED-CHATBOT-FOR-INDUSTRIAL-PROCESS-MONITORING-FOR-PAPERCUTTING-MACHINE/chatbot-develop.git
+     $ git clone https://github.com/CnQzdr/AI-BASED-CHATBOT-FOR-INDUSTRIAL-PROCESS-MONITORING-FOR-PAPERCUTTING-MACHINE/chatbot-develop.git
 7.To train an algorthm
-    $ python training.py
+     $ python training.py
 8.Start conversation
-    $ python main.py
+     $ python main.py
 
 #HARDWARE IMPLEMENTATION
 The hardware system that will control the machine through the developed chatbot needs:
