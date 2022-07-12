@@ -26,7 +26,7 @@ Then after installations of the above, then is setting up of virtual environment
      $ . venv/Scripts/activate
    ```
 
-Where "chatbot-develop" is the folder name for your project.
+Where "chatbot-develop" is the folder name for the project.
 
 5. Installations of packages
 
@@ -34,7 +34,7 @@ Where "chatbot-develop" is the folder name for your project.
 
 ## B. CLONE AND TRAINING
 
-6. Clone this repository from the bash terminal to the "Chatbot-develop" by writting:
+6. Clone this repository from the bash terminal to the "chatbot-develop" by writting:
     
     ` $ git clone https://github.com/CnQzdr/AI-BASED-CHATBOT-FOR-INDUSTRIAL-PROCESS-MONITORING-FOR-PAPERCUTTING-MACHINE/tree/main/Chatbot-develop `
 
