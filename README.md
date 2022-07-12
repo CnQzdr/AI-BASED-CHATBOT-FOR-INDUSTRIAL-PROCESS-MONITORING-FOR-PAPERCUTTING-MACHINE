@@ -38,7 +38,7 @@ Where "chatbot-develop" is the folder name for the project.
     
     ` $ git clone https://github.com/CnQzdr/AI-BASED-CHATBOT-FOR-INDUSTRIAL-PROCESS-MONITORING-FOR-PAPERCUTTING-MACHINE/tree/main/Chatbot-develop `
 
-7. To train an algorthm
+7. To train an algorithm
      
    `  $ python training.py `
 
