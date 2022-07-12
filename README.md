@@ -1,5 +1,5 @@
 # AI-BASED-CHATBOT-FOR-INDUSTRIAL-PROCESS-MONITORING-FOR-PAPERCUTTING-MACHINE
-For industry 4.0 to provide way to create a truly objective measures of production and hence industries performance.
+For industry 4.0 to provide way to create a truly objective measures of production and enhance industries performance.
 
 Many companies dedicated specific employees to monitor their production lines, since problems can occur at virtually any point in manufacturing, that might leave operator or manufacturer guessing from where certain defects or delays originate which gives a limited view of what is going on in one place at a given time, thus monitors the process flow and fix malfunctions or faults in not real-time way and hence lead to inefficiency industrial performance.
 
@@ -32,9 +32,9 @@ Where "chatbot-develop" is the folder name for your project.
 
 ## B. CLONE AND TRAINING
 
-6. Clone this repository from the bash terminal to the "chatbot-develop" by writting:
+6. Clone this repository from the bash terminal to the "Chatbot-develop" by writting:
     
-     $ git clone https://github.com/CnQzdr/AI-BASED-CHATBOT-FOR-INDUSTRIAL-PROCESS-MONITORING-FOR-PAPERCUTTING-MACHINE/chatbot-develop.git
+     $ git clone https://github.com/CnQzdr/AI-BASED-CHATBOT-FOR-INDUSTRIAL-PROCESS-MONITORING-FOR-PAPERCUTTING-MACHINE/Chatbot-develop.git
 
 7. To train an algorthm
      
@@ -65,4 +65,4 @@ The hardware system that will control the machine through the developed chatbot 
 
 2. Embedded Code IDE(Arduino IDE). For Arduino IDE installation see https://www.arduino.cc/en/software
 
-Schematic design and PCB layout are provided in "hardware-develop" folder from this repository.
+Schematic design and PCB layout are provided in "Hardware-develop" folder from this repository.
